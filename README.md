@@ -117,4 +117,4 @@ This tool is designed for **education, journaling, and simulation only**. No rea
 
 ## 📬 Contact
 
-Created by [@yourname] – for suggestions or contributions, feel free to open an issue or PR!
+Created by [@m4l3k-16] – for suggestions or contributions, feel free to open an issue or PR!
