@@ -75,26 +75,6 @@ The CPI (Custom Price Intelligence) app is a **Python CLI tool** that helps you:
 
 ---
 
-## 📁 Project Structure (Planned)
-
-cpi_app/
-├── main.py # Entry point CLI app
-├── triggers.py # Price trigger logic
-├── telegram_alerts.py # Telegram integration
-├── performance.py # Tracking stats
-├── news.py # News fetching and filtering
-├── config.json # User settings and strategy config
-├── utils/
-│ ├── logger.py
-│ └── price_checker.py
-└── README.md
-
-yaml
-Copier
-Modifier
-
----
-
 ## ✅ Setup & Installation (Coming Soon)
 
 ---
