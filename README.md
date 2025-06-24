@@ -5,6 +5,7 @@
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
 ![Last Commit](https://img.shields.io/github/last-commit/M4l3k-16/CPI)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/M4l3k-16/CPI)
+
 A command-line Python application for **spot trading simulation** and **live analysis**, designed to help traders test, monitor, and evaluate setups using custom triggers, real-time alerts, and performance metrics. Built with a focus on trading discipline, signal quality, and risk management.
 
 ---
